@@ -1,0 +1,3 @@
+game:GetService("RunService").Stepped:Connect(funtion()
+    game.Workspace.Gravity = 90
+end)
